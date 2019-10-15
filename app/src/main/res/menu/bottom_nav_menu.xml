@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_sum"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/summary" />
+    <item
+        android:id="@+id/nav_knowledge"
+        android:icon="@drawable/ic_action_name_2"
+        android:title="@string/knowledge" />
+    <item
+        android:id="@+id/nav_experience"
+        android:icon="@drawable/ic_action_name_3"
+        android:title="@string/experience" />
+</menu>
